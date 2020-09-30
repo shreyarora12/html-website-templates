@@ -1,7 +1,7 @@
 # Free Static HTML Website Templates
 Free Static HTML Email templates created using the [Slides Website Builder](https://designmodo.com/slides/).
 
-Here are a few [static website templates](https://designmodo.com/static-website-templates/) you can use for free.
+Here are a few [static website templates](https://designmodo.com/static-website-templates/) that you can use for free.
 
 **Screenshots - Download the Templates to See the Animations**
 
@@ -18,7 +18,7 @@ Here are a few [static website templates](https://designmodo.com/static-website-
 
 By the look of the website, you can tell a lot about business, service or persona. Generally, design speaks more than a thousand words. The choice of colors, fonts or photos will determine whether you are worth someone´s attention. Also, it will either help your copy stand out or destroy it.
 
-What makes one website superior is the right combination of content and design. Being different, unique is always a plus, which is why you need proper tools to make it happen. **Slides is a static website builder that will help you make the difference** and become attractive to the eye of your preferred audience.
+What makes one website superior than others is the right combination of content and design. Being different, unique is always a plus, which is why you need proper tools to make it happen. **Slides is a static website builder that will help you make the difference** and become attractive to the eye of your preferred audience.
 
 **Slides – Developer´s Little Helper**
 
@@ -26,7 +26,7 @@ It is always useful to have help while creating a website from scratch. Working 
 
 ![enter image description here](https://cdn-images-1.medium.com/max/1600/1*-4hGnCc58E-7E8YCEILNrQ.gif)
 
-As a developer-friendly app Slides is offering a piece of mind and less stress while creating your perfect website. **What makes it developer friendly?** First of all, you don´t have to build a website from scratch because all the important stuff you need are built-in for you. Built with HTML, CSS, and JS Slides include code that’s easy to understand and easy to change, no other frameworks are needed.
+As a developer-friendly app 'Slides' is offering a piece of mind and less stress while creating your perfect website. **What makes it developer friendly?** First of all, you don´t have to build a website from scratch because all the important stuff you need are built-in for you. Built with HTML, CSS, and JS Slides include code that’s easy to understand and easy to change, no other frameworks are needed.
 
 **Create Websites With Fully Integrated Info**
 
@@ -57,7 +57,7 @@ This app is perfect for those who are willing to design outstanding websites as 
 
 **License**
 
-If you find the tool useful, please share it with your friends or mention us on your website. Use the templates for personal or commercial projects, but don't sell them!
+If you find the above tool useful, please share it with your friends or mention us on your website. Use the templates for personal or commercial projects, but don't sell them!
 
 **Changelog**
 
